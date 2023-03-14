@@ -1,6 +1,5 @@
 # Inventory-Order-Management-System
 inventory order management system with modules like warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
-The next version asp.net core 2.2 with new theme Admin LTE
 
 ![inventory](ims/wwwroot/images/scm6.png)
 ![inventory](ims/wwwroot/images/scm7.png)
