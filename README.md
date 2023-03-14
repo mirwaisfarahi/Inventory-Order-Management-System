@@ -1,8 +1,6 @@
-# Inventory-Order-Management-System
+# Inventory Order Management System
 inventory order management system with modules like warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 
-![inventory](ims/wwwroot/images/scm6.png)
-![inventory](ims/wwwroot/images/scm7.png)
 
 
 # Features
